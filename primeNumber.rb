@@ -12,7 +12,7 @@ def PrimeNumber?(number)
   end
  end
 
-PrimeNumber?(10)
+PrimeNumber?(5)
 
 
 
